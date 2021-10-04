@@ -1,13 +1,4 @@
-### Markdown
-
-```markdown
-Syntax highlighted code block
+### Proycto SIG
 
 # Proyecto SIG
-## Kevin Córdoba Chevez
-### Estefanía Pérez Hidalgo
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Kevin Córdoba Chevez y Estefanía Pérez Hidalgo
